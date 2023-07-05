@@ -1,5 +1,11 @@
 # Management & Automation Architecture Workshop
-Draft: 1.12.2022, V2.3 virtual, astolzen@redhat.com
+Draft: 5.7.2023, V2.4 (update) virtual, astolzen@redhat.com
+
+#### Changelog 5.7.23:
+ - removed 2022 presentation
+ - Added 2.4 update Presentation
+ - replaced Ansible technical Presentation for AAP 2.0 with AAP 2.3 
+
 ## Abstract:
 A technical Workshop for Partner Infrastructure/Cloud Architects covering all Infrastructure and Cloud Related Management Products:
  - Ansible Automation Platform 2 with Cli, Controller, Hub, Builder, for System-, Network- and Windows Automation
@@ -35,8 +41,9 @@ A technical Workshop for Partner Infrastructure/Cloud Architects covering all In
 
 ### Block 2 (3 Hours):
 
- - Ansible for Windows
- - Ansible for Networks and Security
+ - Event Driven Ansible
+ - Ansible for Windows (optinal)
+ - Ansible for Networks and Security (optinal) 
  - Automation Hub, Collections and Galaxy
  - Ansible on Openshift
  - Fully Automated Application Rollout, Demo and Code review

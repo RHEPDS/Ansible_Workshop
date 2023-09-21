@@ -1,6 +1,9 @@
 # Management & Automation Architecture Workshop
-Draft: 5.7.2023, V2.4 (update) virtual, astolzen@redhat.com
+Draft: 21.9.2023, V2.4 (update) virtual, astolzen@redhat.com
 
+#### Changelog 21.9.23:
+ - removed 2.3 presentation
+ - added full 2.4 presentation
 #### Changelog 5.7.23:
  - removed 2022 presentation
  - Added 2.4 update Presentation
